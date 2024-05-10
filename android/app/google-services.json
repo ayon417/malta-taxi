@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502324294378",
+    "project_id": "malta-taxi-test",
+    "storage_bucket": "malta-taxi-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502324294378:android:e3ef6e72b2ccb1fc721d93",
+        "android_client_info": {
+          "package_name": "com.malta.taxi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB4mqetbxXdiM8IKChCIOuSk7JVtmEnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502324294378:android:503d1a77541ed8e6721d93",
+        "android_client_info": {
+          "package_name": "com.matladriver.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB4mqetbxXdiM8IKChCIOuSk7JVtmEnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
